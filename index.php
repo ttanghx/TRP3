@@ -7,3 +7,4 @@
  */
 echo 'TRP3 test OK';
 echo 'test1';
+echo 'test1-1';
