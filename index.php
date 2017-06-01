@@ -6,3 +6,4 @@
  * Time: 上午10:23
  */
 echo 'TRP3 test OK';
+echo 'test1';
