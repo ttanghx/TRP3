@@ -10,3 +10,4 @@ echo 'test1';
 echo 'test1-1';
 echo 'test2';
 echo 'test2-2';
+echo 'ps1-1';
